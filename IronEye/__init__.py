@@ -5,10 +5,7 @@
     | | | |   | (_) || | | || |___ | |_| ||  __/
    |___||_|   \\___/ |_| |_||_____| \\__, \\___|
                                    |___/
-       // Created By Akash Pattnaik \\
-         // Telegram : @AKASH_AM1 \\
-   // Github : github.com/BLUE-DEVIL1134 \\
-
+       // Created By ADITYA \\
 Create Date : 09/10/2020
 Latest Update On : 14/12/20
 
@@ -33,10 +30,10 @@ Latest Update On : 14/12/20
 """
 
 __version__ = 3.0
-__email__ = "akashpattnaik.github@gmail.com"
-__author__ = "Akash Pattnaik"
-__telegram__ = "https://telegram.me/AKASH_AM1"
-__copyright__ = "(c) Akash Pattnaik 2020-2025"
+__email__ = "wolverinelogan1510@gmail.com"
+__author__ = "ADITYA"
+__telegram__ = ""
+__copyright__ = "(c) Aditya 2020-2025"
 __github__ = "https://github.com/BLUE-DEVIL1134/IronEye"
 __Pypi__ = "pypi.org/profile/AkashPattnaik"
 __latest_update__ = "14/12/20"
